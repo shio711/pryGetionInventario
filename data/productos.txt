@@ -1,0 +1,7 @@
+codigo;nombre;categoria;unidad;existencias;stockMinimo;precioUnitario
+0006;Manzana;Abarrotes;kg;175.0;20.0;4.5
+P001;Arroz extra;Abarrotes;kg;48.0;10.0;4.5
+P002;Azúcar rubia;Abarrotes;kg;32.0;8.0;4.2
+P003;Leche evaporada;Abarrotes;lata;24.0;12.0;4.0
+P004;Aceite vegetal;Abarrotes;litro;18.0;6.0;8.5
+P005;Detergente;Limpieza;paquete;4.0;8.0;7.9
